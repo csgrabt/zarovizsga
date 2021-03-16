@@ -6,7 +6,7 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 
 public class HuskyTest {
 
-/*    @Test
+    @Test
     void testCreate() {
         Husky husky = new Husky("Morzsi");
         assertEquals("Morzsi", husky.getName());
@@ -25,5 +25,5 @@ public class HuskyTest {
         Husky husky = new Husky("Morzsi");
         husky.play(4);
         assertEquals(12, husky.getHappiness());
-    }*/
+    }
 }
