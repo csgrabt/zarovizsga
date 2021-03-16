@@ -1,4 +1,4 @@
-package hu.nive.ujratervezes.zarovizsga.workHours;
+package hu.nive.ujratervezes.zarovizsga.workhours;
 
 import java.io.BufferedReader;
 import java.io.IOException;

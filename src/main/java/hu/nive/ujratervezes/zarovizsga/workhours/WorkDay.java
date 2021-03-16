@@ -1,4 +1,4 @@
-package hu.nive.ujratervezes.zarovizsga.workHours;
+package hu.nive.ujratervezes.zarovizsga.workhours;
 
 public class WorkDay {
     private String name;
