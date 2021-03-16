@@ -13,7 +13,7 @@ import static org.junit.jupiter.api.Assertions.assertTrue;
 
 public class DogTypesTest {
 
-   /* DogTypes dogTypes;
+    DogTypes dogTypes;
 
     @BeforeEach
     void init() throws SQLException {
@@ -38,6 +38,6 @@ public class DogTypesTest {
         assertEquals(9, types.size());
         assertTrue(types.contains("komondor"));
         assertTrue(types.contains("kuvasz"));
-    }*/
+    }
 
 }
